@@ -22,6 +22,7 @@ function sumOfNumbers(arrayOfNumbers) {
   }
     return sum;
 }
+sumOfNumbers([2, 4, 6, 8,])
 assignment.sumOfNumbers = sumOfNumbers;
 
 /**
